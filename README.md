@@ -159,7 +159,7 @@ Please contact authors to report bugs @ j.gene@eagrof.udl.cat
 
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
-    @article{GenÃ©-Mola2018,
+    @article{Gene-Mola2018,
         Author = {Gen{\'e}-Mola, Jordi and Vilaplana, Ver{\'o}nica and Rosell-Polo, Joan R and Morros, Josep-Ramon and Ruiz-Hidalgo, Javier  and Gregorio, Eduard},
         Title = {Multi-modal Deep Learning for Fruit Detection Using RGB-D Cameras and their Radiometric Capabilities},
         Journal = {Submitted},
