@@ -1,7 +1,5 @@
 # Pytorch Implementation of Faster R-CNN for multi-modal images (up to 5 channels)
 
-**NOTE**: This code is not publicly available yet. It will be published after the corresponding paper acceptance.
-
 ## Introduction
 This project is a pytorch implementation of a Faster R-CNN for fruit detection suitable with multi-modal images (up to 5 channels). It's based on implementation of:
 * [jwyang/faster_rcnn.pytorch](https://github.com/jwyang/faster_rcnn_pytorch), developed based on Pytorch + Numpy
@@ -159,11 +157,14 @@ Please contact authors to report bugs @ j.gene@eagrof.udl.cat
 
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
-    @article{Gene-Mola2018,
-        Author = {Gen{\'e}-Mola, Jordi and Vilaplana, Ver{\'o}nica and Rosell-Polo, Joan R and Morros, Josep-Ramon and Ruiz-Hidalgo, Javier  and Gregorio, Eduard},
-        Title = {Multi-modal Deep Learning for Fruit Detection Using RGB-D Cameras and their Radiometric Capabilities},
-        Journal = {Submitted},
-        Year = {2019}
+    @article{Gene-Mola2019,
+        author = {Gen{\'e}-Mola, Jordi and Vilaplana, Ver{\'o}nica and Rosell-Polo, Joan R and Morros, Josep-Ramon and Ruiz-Hidalgo, Javier  and Gregorio, Eduard},
+        title = {Multi-modal Deep Learning for Fruit Detection Using RGB-D Cameras and their Radiometric Capabilities},
+        journal={Computers and Electronics in Agriculture},
+	volume={162},
+  	pages={689--698},
+  	year={2019},
+        publisher={Elsevier}
     } 
 
 For convenience, here is the Faster RCNN citation:
